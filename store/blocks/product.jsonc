@@ -66,12 +66,12 @@
       "product-highlights",
       //"product-specifications",
       "product-description",
+      "sku-selector",
       "flex-layout.row#product-boxAction",
       // "rich-text#warning",
       // "product-rating-summary",
       // "product-price#product-details",
       // "product-quantity",
-      // "sku-selector",
       // "flex-layout.row#buy-button",
       // "availability-subscriber",
       "shipping-simulator"
